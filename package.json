@@ -1,0 +1,24 @@
+{
+  "name": "kizume-ui-node",
+  "version": "1.0.0",
+  "description": "Node.js implementation of Kizume UI",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tylervano/kizume-ui-node.git"
+  },
+  "author": "Tyler Vano <tylervano@kizu.me>",
+  "license": "Proprietary",
+  "bugs": {
+    "url": "https://github.com/tylervano/kizume-ui-node/issues"
+  },
+  "homepage": "https://github.com/tylervano/kizume-ui-node",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+  }
+}

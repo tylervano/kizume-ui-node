@@ -1,2 +1,2 @@
-# kizume-ui-node
-Node version of Kizume UI
+# kizume-node-platform
+Node.js version of Kizume Platform
